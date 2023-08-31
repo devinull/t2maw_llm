@@ -25,3 +25,5 @@ We have begun development of the interactive installation for proof of concept. 
 We are going with the flow ~~~
 
 [talktomeaboutwater.com](https://talktomeaboutwater.com)
+
+![network](https://github.com/devinull/T2MAW_LLM/assets/6601146/989097d8-24e7-441f-941e-b9250e3e4f89)
