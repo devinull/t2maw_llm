@@ -15,10 +15,10 @@ We plan to transition the software stack that we are using to open-source models
 
 These include:
 
-- whisper for speech transcription
-- llama2 for text generation
-- tortoise tts for generative text to speech
-- rvc (retrieval based voice conversion) for refining tts output
+- [whisper](https://github.com/openai/whisper) for speech transcription
+- [llama2](https://github.com/facebookresearch/llama) for text generation
+- [tortoise tts](https://github.com/neonbjb/tortoise-tts) for generative text to speech
+- [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) (retrieval based voice conversion) for refining tts output
 
 We have begun development of the interactive installation for proof of concept. Once pipeline is solidified we will begin model training and development of public tool.
 
