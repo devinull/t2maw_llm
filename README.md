@@ -1,4 +1,4 @@
-# T2MAW_LLM
+# t2maw_llm
 
 Talk To Me About Water LLM Pipeline
 
